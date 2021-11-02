@@ -3,8 +3,8 @@ package models
 type Currency struct {
 	GBP string `json:"gbp"`
 	USD string `json:"usd"`
-	RUR string `json:"rur"`
 	EUR string `json:"eur"`
+	RUB string `json:"rub"`
 }
 
 type Target struct {
